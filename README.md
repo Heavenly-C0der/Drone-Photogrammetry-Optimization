@@ -212,18 +212,7 @@ The Fibonacci search efficiently narrowed the interval and converged within **18
 │
 ├── requirements.txt
 ├── README.md
-```
 
-├── data/                 # Images, GCPs, RTK data
-├── preprocessing/        # Coordinate conversion, matching
-├── bundle_adjustment/    # Reprojection error minimization
-├── gcp_optimization/     # RTK correction using GCPs
-├── optimization/         # Cost functions & optimizers
-├── visualization/        # 2D / 3D plots
-├── results/              # Metrics and outputs
-├── README.md
-
-```
 
 ---
 
