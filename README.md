@@ -187,9 +187,8 @@ The Fibonacci search efficiently narrowed the interval and converged within **18
 
 ## Repository Structure
 
-```
 ├── data/
-│   └── [odm_data_helenenschacht-main/ ](https://github.com/OpenDroneMap/odm_data_helenenschacht/tree/main)  # Input dataset (images, metadata)
+│   └── [odm_data_helenenschacht-main](https://github.com/OpenDroneMap/odm_data_helenenschacht/tree/main)  # Input dataset (images, metadata)
 │
 ├── metadata_extraction/                # EXIF & camera metadata parsing
 │
@@ -217,15 +216,17 @@ The Fibonacci search efficiently narrowed the interval and converged within **18
 ---
 
 ## References
-- DJI Enterprise – Ground Control Points
-- MDPI Remote Sensing (2018)
-- MDPI Journal of Imaging (2023)
-- Agisoft Photogrammetry Forum
-- Baeldung – Bundle Adjustment
-- Artec3D Learning Center
--[helenenschacht](https://github.com/OpenDroneMap/odm_data_helenenschacht/tree/main) 
+
+- [DJI Enterprise – Ground Control Points](https://enterprise.dji.com)
+- [MDPI Remote Sensing (2018)](https://www.mdpi.com/journal/remotesensing)
+- [MDPI Journal of Imaging (2023)](https://www.mdpi.com/journal/jimaging)
+- [Agisoft Photogrammetry Forum](https://www.agisoft.com/forum/)
+- [Baeldung – Bundle Adjustment](https://www.baeldung.com/cs/bundle-adjustment)
+- [Artec3D Learning Center](https://www.artec3d.com/learning-center)
+- [Helenenschacht ODM Dataset](https://github.com/OpenDroneMap/odm_data_helenenschacht/tree/main)
 
 ---
+
 
 ## Notes
 This project is academic in nature and intended for learning and demonstration purposes. The optimization techniques used here can be extended to real-world large-scale photogrammetric systems with appropriate computational resources.
