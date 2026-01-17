@@ -186,7 +186,7 @@ The Fibonacci search efficiently narrowed the interval and converged within **18
 ---
 
 ## Repository Structure
-
+```
 ├── data/
 │   └── [odm_data_helenenschacht-main](https://github.com/OpenDroneMap/odm_data_helenenschacht/tree/main)  # Input dataset (images, metadata)
 │
@@ -211,7 +211,7 @@ The Fibonacci search efficiently narrowed the interval and converged within **18
 │
 ├── requirements.txt
 ├── README.md
-
+```
 
 ---
 
