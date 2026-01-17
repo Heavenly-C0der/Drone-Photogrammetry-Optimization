@@ -2,9 +2,9 @@
 
 ## Overview
 
-This repository presents an academic implementation and analysis of optimization techniques applied to **drone-based photogrammetry**. The project demonstrates how classical numerical optimization methods can significantly improve the accuracy of 3D reconstruction, camera pose estimation, and ground control point (GCP) alignment in UAV-based mapping workflows.
+This repository presents an implementation and analysis of optimization techniques applied to **drone-based photogrammetry**. The project demonstrates how classical numerical optimization methods can significantly improve the accuracy of 3D reconstruction, camera pose estimation, and ground control point (GCP) alignment in UAV-based mapping workflows.
 
-The work was developed as part of the course **MDTS4311** and focuses on minimizing reprojection errors, correcting RTK-based drone trajectories, and jointly optimizing overall photogrammetric cost functions.
+The work focuses on minimizing reprojection errors, correcting RTK-based drone trajectories, and jointly optimizing overall photogrammetric cost functions.
 
 ---
 
