@@ -124,3 +124,4 @@ for fname in sorted(os.listdir(IMAGE_DIR)):
 
 print("\n🎯 Feature extraction + filtering complete.")
 print(f"All features saved in: {FEATURES_DIR}")
+
