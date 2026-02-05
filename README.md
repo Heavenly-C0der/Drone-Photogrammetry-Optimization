@@ -171,6 +171,7 @@ The Fibonacci search efficiently narrowed the interval and converged within **18
 * ENU plane alignment (Before vs After)
 * Reprojection error convergence curves
 * Fibonacci interval contraction plots
+* [Bundle Adjustment 3D interactive plot](https://ghatakayush2003.github.io/My-html-pages/)
 
 ---
 
@@ -197,7 +198,6 @@ The Fibonacci search efficiently narrowed the interval and converged within **18
 ├── feature_matching/                   # Descriptor matching (KNN / ratio test)
 │
 ├── triangulation/                      # 3D point triangulation
-│   └── tests/                          # Triangulation error handling tests
 │
 ├── bundle_adjustment/                  # Reprojection error minimization (BFGS)
 │
@@ -207,7 +207,7 @@ The Fibonacci search efficiently narrowed the interval and converged within **18
 │
 ├── visualization/                      # 2D / 3D plots and alignment visuals
 │
-├── results/                            # Metrics, RMSE, convergence outputs
+├── results/                            # Metrics, RMSE, convergence outputs, logs, image metadata
 │
 ├── requirements.txt
 ├── README.md
