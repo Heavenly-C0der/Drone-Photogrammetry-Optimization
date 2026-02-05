@@ -100,4 +100,5 @@ fig.write_html(f"{OUTPUT_DIR}/3D_points_and_cameras.html")
 
 # Show in browser
 fig.show()
+
 """
