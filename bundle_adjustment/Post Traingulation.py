@@ -99,3 +99,4 @@ print(f"Mean reprojection error: {global_mean:.2f}px")
 print(f"RMS reprojection error:  {global_rms:.2f}px")
 print(f"Max reprojection error:  {global_max:.2f}px")
 print("---------------------------------------------")
+
